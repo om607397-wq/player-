@@ -1,0 +1,6 @@
+{
+  "name": "Academy Player Profile Template",
+  "description": "A modern, premium, minimalist football player profile designed for young academy players.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
