@@ -63,39 +63,39 @@ export const DUMMY_DATA: PlayerData = {
     en: 'Creative attacking midfielder known for vision, passing accuracy, and goal-scoring ability.',
     ar: 'لاعب خط وسط هجومي مبدع يتميز بالرؤية ودقة التمرير والقدرة على تسجيل الأهداف.'
   },
-  heroImage: '../public/profile.jpg',
+  heroImage: '/profile.jpg',
   videos: {
-    main: '../public/ssstik.io_@abdallah_shaarawyy_1781135258505.mp4',
+    main: '/ssstik.io_@abdallah_shaarawyy_1781135258505.mp4',
     others: [
-      '../public/ssstik.io_@abdallah_shaarawyy_1781135277389.mp4',
-      '../public/ssstik.io_@abdallah_shaarawyy_1781135258505.mp4'
+      '/ssstik.io_@abdallah_shaarawyy_1781135277389.mp4',
+      '/ssstik.io_@abdallah_shaarawyy_1781135258505.mp4'
     ]
   },
   gallery: [
-    '../public/e1.jpg',
-    '../public/e2.jpg',
-    '../public/e3.jpg',
-    '../public/e4.jpg',
-    '../public/e5.jpg'
+    '/e1.jpg',
+    '/e2.jpg',
+    '/e3.jpg',
+    '/e4.jpg',
+    '/e5.jpg'
   ],
   timeline: [
     {
       year: '2025',
       title: { en: 'Fayoum SC', ar: 'نادي الفيوم' },
       club: { en: 'Fayoum SC', ar: 'نادي الفيوم' },
-      logo: '../public/fayoum.jpg'
+      logo: '/fayoum.jpg'
     },
     {
       year: '2021 - 2022',
       title: { en: 'CD Leganés', ar: 'نادي ليجانيس الإسباني' },
       club: { en: 'CD Leganés', ar: 'نادي ليجانيس الإسباني' },
-      logo: '../public/CD_Leganés.svg'
+      logo: '/CD_Leganés.svg'
     },
     {
       year: '2022 - 2025',
       title: { en: 'AL AHLY SC ', ar: 'النادي الأهلي المصري' },
       club: { en: 'AL AHLY SC', ar: 'النادي الأهلي المصري' },
-      logo: '../public/Al_Ahly_SC_logo_23.svg.png'
+      logo: '/Al_Ahly_SC_logo_23.svg.png'
     }
   ]
 };
